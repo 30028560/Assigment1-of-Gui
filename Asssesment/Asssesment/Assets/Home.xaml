@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Asssesment.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Asssesment"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Image Source="Annotation 2020-03-10 151002-Recovered.png" VerticalAlignment="Top" Stretch="Fill" />
+        <TextBlock HorizontalAlignment="Left" Margin="803,288,0,0" Text="XYZ" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="488,336,0,0" Text="ABC" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="261,203,0,0" Text="DEF" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="18" FontWeight="Bold"/>
+        <TextBlock HorizontalAlignment="Left" Margin="803,312,0,0" Text="20 cases" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="803,312,0,0" Text="20 cases" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="261,232,0,0" Text="16 cases" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="488,360,0,0" Text="10 cases" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+    </Grid>
+</Page>
